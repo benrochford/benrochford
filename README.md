@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @benrochford
+- 👀 I’m interested in social computing
+- 🌱 I’m currently learning NLP and data analytics
+- 📫 How to reach me: dm!
