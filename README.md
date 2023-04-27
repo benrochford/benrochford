@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @benrochford
 - 👀 I’m interested in social computing
-- 🌱 I’m currently learning NLP and data analytics
+- 🌱 I’m currently studying as a PhD student at Duke's Polarization Lab
 - 📫 How to reach me: dm!
