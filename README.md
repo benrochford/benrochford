@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @benrochford
 - 👀 I’m interested in Computational Social Science
-- 🌱 I’m currently studying as a Sociology PhD student at Duke's Polarization Lab
+- 🌱 I’m currently studying as a Sociology PhD student with Duke's Polarization Lab
 - 📫 How to reach me: dm!
